@@ -1,0 +1,5 @@
+name: No_Earth_Orbit
+version: '1.0.0'
+main: TGBUG.no_Earth_Orbit.No_Earth_Orbit
+api-version: '1.20'
+description: 死亡回溯插件
